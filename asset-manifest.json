@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/form-exam/static/css/main.65381995.css",
+    "main.js": "/form-exam/static/js/main.e75bf824.js",
+    "static/js/787.b5aa3df0.chunk.js": "/form-exam/static/js/787.b5aa3df0.chunk.js",
+    "static/media/image.jpg": "/form-exam/static/media/image.4a520915d3e4d3cb11ef.jpg",
+    "index.html": "/form-exam/index.html",
+    "main.65381995.css.map": "/form-exam/static/css/main.65381995.css.map",
+    "main.e75bf824.js.map": "/form-exam/static/js/main.e75bf824.js.map",
+    "787.b5aa3df0.chunk.js.map": "/form-exam/static/js/787.b5aa3df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65381995.css",
+    "static/js/main.e75bf824.js"
+  ]
+}
